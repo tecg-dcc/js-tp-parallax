@@ -10,8 +10,6 @@
 
 * * *
 
-Dans le cadre de cet exercice, nous vous demandons de produire un effet parallaxe. 
-
 ## L'effet parallaxe
 
 Un effet parallaxe c'est quand au moins 2 éléments sur 2 plans différents évoluent à des vitesses différentes.
@@ -36,6 +34,8 @@ Avec une **même distance de scroll**, l'élément `a` aura parcouru une distanc
 
 ## Énoncé
 
+Dans le cadre de cet exercice, nous vous demandons de produire un effet parallaxe.
+
 ![](readme.gif)
 
 
@@ -43,8 +43,6 @@ Avec une **même distance de scroll**, l'élément `a` aura parcouru une distanc
 Comparez attentivement la position du texte " `Lorem Impsum »` sur l'image de gauche et de droit. Dans la version sans JS (droite), le texte reste toujours à la même position (référez-vous au pavé du sol). En opposition à la version de gauche où le défilement du texte n'évolue pas à la même vitesse que l'image.
 
 Nous vous demandons de reproduire cet effet à l'aide de JavaScript.
-
-
 
 ## Aides
 
@@ -57,11 +55,7 @@ Nous vous demandons de reproduire cet effet à l'aide de JavaScript.
 ## Sources 
 [Parallax Scrolling with Vanilla Javascript- Single Element](https://codepen.io/manz/pen/QEyqyP) de Manz.  
 
-[Zoom sur l'effet parallaxe](https://www.alsacreations.com/tuto/lire/1417-zoom-sur-effet-parallaxe.html) de [Simon-K](https://www.alsacreations.com/profil/lire/19193-Simon-K.html).
-
-
-
-​    
+[Zoom sur l'effet parallaxe](https://www.alsacreations.com/tuto/lire/1417-zoom-sur-effet-parallaxe.html) de [Simon-K](https://www.alsacreations.com/profil/lire/19193-Simon-K.html).   
 
 
 
