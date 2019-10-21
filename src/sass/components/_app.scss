@@ -1,0 +1,18 @@
+.parallax {
+  background: url(../img/background.jpg) no-repeat;
+  background-size: cover;
+}
+
+.parallax h1 {
+  text-align: center;
+  padding: 20rem 0;
+  font-size: 4em;
+  color: white;
+  background: rgba(29, 25, 29, 0.37);
+  font-family: "Trebuchet MS", serif;
+  margin-top: 0;
+}
+.doc-content {
+  max-width: 80%;
+  margin: 2rem auto;
+}
