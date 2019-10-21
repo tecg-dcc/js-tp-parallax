@@ -40,7 +40,7 @@ Dans le cadre de cet exercice, nous vous demandons de produire un effet parallax
 
 
 
-Comparez attentivement la position du texte " `Lorem Impsum »` sur l'image de gauche et de droit. Dans la version sans JS (droite), le texte reste toujours à la même position (référez-vous au pavé du sol). En opposition à la version de gauche où le défilement du texte n'évolue pas à la même vitesse que l'image.
+Comparez attentivement la position du texte `Lorem Impsum` sur l'image de gauche et de droit. Dans la version sans JS (droite), le texte reste toujours à la même position (référez-vous au pavé du sol). En opposition à la version de gauche où le défilement du texte n'évolue pas à la même vitesse que l'image.
 
 Nous vous demandons de reproduire cet effet à l'aide de JavaScript.
 
